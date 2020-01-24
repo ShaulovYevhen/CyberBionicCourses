@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\determineTheGap\obj\Debug\determineTheGap.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\determineTheGap\bin\Debug\determineTheGap.exe.config
+D:\repos\cd\starter\L1\determineTheGap\bin\Debug\determineTheGap.exe
+D:\repos\cd\starter\L1\determineTheGap\bin\Debug\determineTheGap.pdb
+D:\repos\cd\starter\L1\determineTheGap\obj\Debug\determineTheGap.exe
+D:\repos\cd\starter\L1\determineTheGap\obj\Debug\determineTheGap.pdb

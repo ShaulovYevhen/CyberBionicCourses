@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\cylinderArea\bin\Debug\cylinderArea.exe.config
+D:\repos\cd\starter\L1\cylinderArea\bin\Debug\cylinderArea.exe
+D:\repos\cd\starter\L1\cylinderArea\bin\Debug\cylinderArea.pdb
+D:\repos\cd\starter\L1\cylinderArea\obj\Debug\cylinderArea.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\cylinderArea\obj\Debug\cylinderArea.exe
+D:\repos\cd\starter\L1\cylinderArea\obj\Debug\cylinderArea.pdb

@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\PremiumCalculator\bin\Debug\PremiumCalculator.exe.config
+D:\repos\cd\starter\L1\PremiumCalculator\bin\Debug\PremiumCalculator.exe
+D:\repos\cd\starter\L1\PremiumCalculator\bin\Debug\PremiumCalculator.pdb
+D:\repos\cd\starter\L1\PremiumCalculator\obj\Debug\PremiumCalculator.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\PremiumCalculator\obj\Debug\PremiumCalculator.exe
+D:\repos\cd\starter\L1\PremiumCalculator\obj\Debug\PremiumCalculator.pdb

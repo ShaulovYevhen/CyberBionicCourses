@@ -1,0 +1,9 @@
+D:\repos\cd\starter\L1\ButtanClick\bin\Debug\ButtanClick.exe.config
+D:\repos\cd\starter\L1\ButtanClick\bin\Debug\ButtanClick.exe
+D:\repos\cd\starter\L1\ButtanClick\bin\Debug\ButtanClick.pdb
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtonClick.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtonClick.Form1.resources
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtanClick.Properties.Resources.resources
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtonClick.csproj.GenerateResource.cache
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtanClick.exe
+D:\repos\cd\starter\L1\ButtanClick\obj\Debug\ButtanClick.pdb

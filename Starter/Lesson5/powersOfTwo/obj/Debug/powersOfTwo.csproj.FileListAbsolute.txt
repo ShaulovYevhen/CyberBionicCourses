@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\powersOfTwo\bin\Debug\powersOfTwo.exe.config
+D:\repos\cd\starter\L1\powersOfTwo\bin\Debug\powersOfTwo.exe
+D:\repos\cd\starter\L1\powersOfTwo\bin\Debug\powersOfTwo.pdb
+D:\repos\cd\starter\L1\powersOfTwo\obj\Debug\powersOfTwo.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\powersOfTwo\obj\Debug\powersOfTwo.exe
+D:\repos\cd\starter\L1\powersOfTwo\obj\Debug\powersOfTwo.pdb

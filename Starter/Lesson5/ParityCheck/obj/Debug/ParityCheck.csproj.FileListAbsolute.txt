@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\ParityCheck\bin\Debug\ParityCheck.exe.config
+D:\repos\cd\starter\L1\ParityCheck\bin\Debug\ParityCheck.exe
+D:\repos\cd\starter\L1\ParityCheck\bin\Debug\ParityCheck.pdb
+D:\repos\cd\starter\L1\ParityCheck\obj\Debug\ParityCheck.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\ParityCheck\obj\Debug\ParityCheck.exe
+D:\repos\cd\starter\L1\ParityCheck\obj\Debug\ParityCheck.pdb

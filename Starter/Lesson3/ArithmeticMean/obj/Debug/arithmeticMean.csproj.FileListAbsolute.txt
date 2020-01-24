@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\arithmeticMean\bin\Debug\arithmeticMean.exe.config
+D:\repos\cd\starter\L1\arithmeticMean\bin\Debug\arithmeticMean.exe
+D:\repos\cd\starter\L1\arithmeticMean\bin\Debug\arithmeticMean.pdb
+D:\repos\cd\starter\L1\arithmeticMean\obj\Debug\arithmeticMean.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\arithmeticMean\obj\Debug\arithmeticMean.exe
+D:\repos\cd\starter\L1\arithmeticMean\obj\Debug\arithmeticMean.pdb

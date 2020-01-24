@@ -1,0 +1,5 @@
+D:\repos\cd\starter\L1\factorial\bin\Debug\factorial.exe.config
+D:\repos\cd\starter\L1\factorial\bin\Debug\factorial.exe
+D:\repos\cd\starter\L1\factorial\bin\Debug\factorial.pdb
+D:\repos\cd\starter\L1\factorial\obj\Debug\factorial.exe
+D:\repos\cd\starter\L1\factorial\obj\Debug\factorial.pdb

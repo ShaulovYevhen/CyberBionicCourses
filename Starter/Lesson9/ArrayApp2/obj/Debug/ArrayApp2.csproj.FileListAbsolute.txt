@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\ArrayApp2\bin\Debug\ArrayApp2.exe.config
+D:\repos\cd\starter\L1\ArrayApp2\bin\Debug\ArrayApp2.exe
+D:\repos\cd\starter\L1\ArrayApp2\bin\Debug\ArrayApp2.pdb
+D:\repos\cd\starter\L1\ArrayApp2\obj\Debug\ArrayApp2.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\ArrayApp2\obj\Debug\ArrayApp2.exe
+D:\repos\cd\starter\L1\ArrayApp2\obj\Debug\ArrayApp2.pdb

@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\BankApp\bin\Debug\BankApp.exe.config
+D:\repos\cd\starter\L1\BankApp\bin\Debug\BankApp.exe
+D:\repos\cd\starter\L1\BankApp\bin\Debug\BankApp.pdb
+D:\repos\cd\starter\L1\BankApp\obj\Debug\BankApp.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\BankApp\obj\Debug\BankApp.exe
+D:\repos\cd\starter\L1\BankApp\obj\Debug\BankApp.pdb

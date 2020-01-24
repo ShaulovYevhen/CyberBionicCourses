@@ -1,0 +1,6 @@
+D:\repos\cd\starter\L1\betweenTwoNumbers\bin\Debug\betweenTwoNumbers.exe.config
+D:\repos\cd\starter\L1\betweenTwoNumbers\bin\Debug\betweenTwoNumbers.exe
+D:\repos\cd\starter\L1\betweenTwoNumbers\bin\Debug\betweenTwoNumbers.pdb
+D:\repos\cd\starter\L1\betweenTwoNumbers\obj\Debug\betweenTwoNumbers.csprojAssemblyReference.cache
+D:\repos\cd\starter\L1\betweenTwoNumbers\obj\Debug\betweenTwoNumbers.exe
+D:\repos\cd\starter\L1\betweenTwoNumbers\obj\Debug\betweenTwoNumbers.pdb
