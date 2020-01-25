@@ -28,7 +28,7 @@ namespace AddressClassApp
         private string _street;
         public string Street
         {
-            get { return _street;}
+            get { return _street; }
             set { _street = value; }
         }
 
