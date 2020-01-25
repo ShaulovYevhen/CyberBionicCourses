@@ -4,46 +4,46 @@ namespace AddressClassApp
 {
     class Address
     {
-        private string index;
+        private string _index;
         public string Index
         {
-            get { return index; }
-            set { index = value; }
+            get { return _index; }
+            set { _index = value; }
         }
 
-        private string country;
+        private string _country;
         public string Country
         {
-            get { return country; }
-            set { country = value; }
+            get { return _country; }
+            set { _country = value; }
         }
 
-        private string city;
+        private string _city;
         public string City
         {
-            get { return city; }
-            set { city = value; }
+            get { return _city; }
+            set { _city = value; }
         }
 
-        private string street;
+        private string _street;
         public string Street
         {
-            get { return street;}
-            set { street = value; }
+            get { return _street;}
+            set { _street = value; }
         }
 
-        private string house;
+        private string _house;
         public string House
         {
-            get { return house; }
-            set { house = value; }
+            get { return _house; }
+            set { _house = value; }
         }
 
-        private string apartment;
+        private string _apartment;
         public string Apartment
         {
-            get { return apartment; }
-            set { apartment = value; }
+            get { return _apartment; }
+            set { _apartment = value; }
         }
     }
     class Program
