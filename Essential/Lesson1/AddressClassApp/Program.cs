@@ -58,7 +58,7 @@ namespace AddressClassApp
             address.House = "13b";
             address.Apartment = "23a";
 
-            Console.WriteLine($"Address: {address.Index}\nCountry: {address.Country}\nCity: {address.City}\nHouse: {address.House}\nApartment: {address.Apartment} {address.House}");
+            Console.WriteLine($"Address: {address.Index}\nCountry: {address.Country}\nCity: {address.City}\nHouse: {address.House}\nApartment: {address.Apartment}");
             Console.ReadKey();
         }
     }
