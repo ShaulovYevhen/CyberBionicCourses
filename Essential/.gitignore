@@ -87,6 +87,7 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+*.exe
 
 # TFS 2012 Local Workspace
 $tf/
@@ -256,3 +257,5 @@ ModelManifest.xml
 #ignore .txt file for log
 CW/02Module/202/TestWcf/Client/TestWcfSite/TestWcfSite/Log/*.txt
 CW/02Module/202/TestWcf/Client/TestWcfSite/TestWcfSite/Log/*
+
+obj/
