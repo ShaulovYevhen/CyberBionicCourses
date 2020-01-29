@@ -1,6 +1,0 @@
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\bin\Debug\AdressClassApp.exe.config
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\bin\Debug\AdressClassApp.exe
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\bin\Debug\AdressClassApp.pdb
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\obj\Debug\AddressClassApp.csprojAssemblyReference.cache
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\obj\Debug\AdressClassApp.exe
-D:\Cyber_Bionics_Courses\Essential\Lesson1\AddressClassApp\obj\Debug\AdressClassApp.pdb
