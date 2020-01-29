@@ -259,3 +259,4 @@ CW/02Module/202/TestWcf/Client/TestWcfSite/TestWcfSite/Log/*.txt
 CW/02Module/202/TestWcf/Client/TestWcfSite/TestWcfSite/Log/*
 
 obj/
+bin/
