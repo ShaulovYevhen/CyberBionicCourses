@@ -8,9 +8,9 @@ namespace RectangleClassApp.Tests
     {
         private Rectangle _target;
         [TestInitialize]
-        public void AddR()
+        public void Init()
         {
-            _target = new Rectangle(10,10);
+            _target = new Rectangle(10, 10);
         }
 
         [TestMethod]
@@ -18,7 +18,7 @@ namespace RectangleClassApp.Tests
         {
             var expected = 100;
             var actual = _target.AreaCalculator();
-            Assert.AreEqual(expected,actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod]
