@@ -2,8 +2,8 @@
 {
     public class Rectangle
     {
-        readonly double _side1;
-        readonly double _side2;
+        private double _side1;
+        private double _side2;
 
         public Rectangle(double side1, double side2)
         {
@@ -21,7 +21,7 @@
             get { return this.AreaCalculator(); }
         }
 
-        double PerimeterCalculator()
+        public double PerimeterCalculator()
         {
             return (_side1 + _side2) * 2;
         }
