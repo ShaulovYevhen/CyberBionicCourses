@@ -1,6 +1,6 @@
-﻿namespace BooksApp
+﻿namespace BookApp
 {
-    class BookApp
+    class Program
     {
         static void Main(string[] args)
         {
