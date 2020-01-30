@@ -15,11 +15,6 @@
         {
             get { return this.AreaCalculator(); }
         }
-        public double AreaCalculator()
-        {
-            return _side1 * _side2;
-        }
-
         public double Perimeter
         {
             get { return this.PerimeterCalculator(); }
@@ -28,6 +23,11 @@
         public double PerimeterCalculator()
         {
             return (_side1 + _side2) * 2;
+        }
+
+        public double AreaCalculator()
+        {
+            return _side1 * _side2;
         }
     }
 }

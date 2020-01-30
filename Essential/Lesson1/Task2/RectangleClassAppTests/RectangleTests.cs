@@ -1,7 +1,7 @@
-﻿using RectangleClassApp;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using RectangleClassApp;
 
-namespace RectangleClassApp.Tests
+namespace RectangleClassAppTests
 {
     [TestClass]
     public class RectangleTests
@@ -16,17 +16,13 @@ namespace RectangleClassApp.Tests
         [TestMethod]
         public void AreaCalculatorTest()
         {
-            var expected = 100;
-            var actual = _target.AreaCalculator();
-            Assert.AreEqual(expected, actual);
+            Assert.AreEqual(100, _target.AreaCalculator());
         }
 
         [TestMethod]
         public void PerimeterCalculatorTest()
         {
-            var expected = 40;
-            var actual = _target.PerimeterCalculator();
-            Assert.AreEqual(expected, actual);
+            Assert.AreEqual(40, _target.PerimeterCalculator());
         }
     }
 }
