@@ -2,10 +2,10 @@
 {
     public class Book
     {
-        private Title _title;
-        private string _author;
-        private string _content;
-        public Book(Title title, string author, string content)
+        private readonly Title _title;
+        private readonly Author _author;
+        private readonly Content _content;
+        public Book(Title title, Author author, Content content)
         {
             _title = title;
             _author = author;

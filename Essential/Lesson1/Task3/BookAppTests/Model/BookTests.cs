@@ -12,8 +12,8 @@ namespace BookAppTests.Model
         public void Init()
         {
             var title = new Title("title");
-            string author = "author";
-            string content = "content";
+            var author = new Author("author");
+            var content = new Content("content");
             _target = new Book(title, author, content);
         }
 

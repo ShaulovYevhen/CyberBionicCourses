@@ -38,6 +38,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\Book.cs" />
+    <Compile Include="Model\Author.cs" />
+    <Compile Include="Model\Content.cs" />
     <Compile Include="Model\Title.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
