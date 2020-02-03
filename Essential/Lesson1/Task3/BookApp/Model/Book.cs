@@ -15,6 +15,9 @@
 
         public override string ToString()
         {
+            _title.Show();
+            _author.Show();
+            _content.Show();
             return $"{nameof(_title)}: {_title}, {nameof(_author)}: {_author}, {nameof(_content)}: {_content}";
         }
     }

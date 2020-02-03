@@ -7,14 +7,14 @@ namespace BookApp
     {
         static void Main(string[] args)
         {
-            var title = new Title("adasdas");
-            var author = new Author("Petrow");
-            var content = new Content("text");
+            Console.WriteLine("Enter Title");
+            var title = new Title(Console.ReadLine());
+            Console.WriteLine("Enter Author");
+            var author = new Author(Console.ReadLine());
+            Console.WriteLine("Enter Content");
+            var content = new Content(Console.ReadLine());
             var book = new Book(title, author, content);
-            title.Show();
-            author.Show();
-            content.Show();
-            Console.WriteLine(book.ToString());
+            book.ToString();
             Console.ReadKey();
         }
     }

@@ -14,7 +14,7 @@ namespace BookApp.Model
         public void Show()
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine(Value);
+            Console.WriteLine("Author: " + Value);
         }
 
         public override string ToString()

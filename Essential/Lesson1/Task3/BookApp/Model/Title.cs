@@ -14,7 +14,7 @@ namespace BookApp.Model
         public void Show()
         {
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine(Value);
+            Console.WriteLine("Title: " + Value);
         }
 
         public override string ToString()
