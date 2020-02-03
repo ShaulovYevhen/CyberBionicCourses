@@ -9,10 +9,11 @@ namespace BookApp.Model
             Value = value;
         }
 
-        public string Value { get; }
+        public string Value { get; set; }
 
         public void Show()
         {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine(Value);
         }
 

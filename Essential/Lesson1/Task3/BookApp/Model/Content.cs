@@ -8,10 +8,11 @@ namespace BookApp.Model
         {
             Value = value;
         }
-        public string Value { get; }
+        public string Value { get; set; }
 
         public void Show()
         {
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine(Value);
         }
         public override string ToString()
