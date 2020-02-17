@@ -5,7 +5,7 @@ namespace BookApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Enter Title");
             var title = new Title(Console.ReadLine());
