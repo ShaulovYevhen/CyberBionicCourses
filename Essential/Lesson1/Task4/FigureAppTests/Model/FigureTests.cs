@@ -53,5 +53,25 @@ namespace FigureAppTests.Model
             //Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+
+        public void PerimeterCalculatorTests()
+        {
+            //Arrange
+
+            //Act
+            var actual1 = _target1.PerimeterCalculator();
+            var actual2 = _target2.PerimeterCalculator();
+            var actual3 = _target3.PerimeterCalculator();
+            var expected1 = 17.07;
+            var expected2 = 24.14;
+            var expected3 = 34.14;
+
+            //Assert
+            Assert.AreEqual(expected1, actual1);
+            Assert.AreEqual(expected2, actual2);
+            Assert.AreEqual(expected3, actual3);
+        }
     }
 }
