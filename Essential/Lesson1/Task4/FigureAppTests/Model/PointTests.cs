@@ -20,11 +20,16 @@ namespace FigureAppTests.Model
         [TestMethod]
         public void PointTest()
         {
+            //Arrange
             var actual1 = _target.X;
-            Assert.AreEqual(0,actual1);
             var actual2 = _target.Y;
-            Assert.AreEqual(5, actual2);
             var actual = _target.Name;
+
+            //Act
+
+            //Assert
+            Assert.AreEqual(0,actual1);
+            Assert.AreEqual(5, actual2);
             Assert.AreEqual("Point", actual);
         }
     }
