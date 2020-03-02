@@ -14,9 +14,8 @@ namespace InvoiceAppTests
             var account = 1;
             var customer = "customer";
             var provider = "provider";
-            _target = new Invoice(account, customer, provider);
-            _target.Article = "Article";
-            _target.Quantity = 10;
+            _target = new Invoice(account, customer, provider)
+                { Article = "Article", Quantity = 10 };
         }
 
         [TestMethod]

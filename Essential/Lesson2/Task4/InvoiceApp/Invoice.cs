@@ -14,7 +14,7 @@ namespace InvoiceApp
             _customer = customer;
             _provider = provider;
         }
-        
+
         public string Article { get; set; }
 
         public int Quantity { get; set; }
@@ -43,7 +43,7 @@ namespace InvoiceApp
             {
                 cost = cost * 7 / 6;
             }
-            return "Cуммa оплаты: " + Math.Round(Quantity*cost,2);
+            return "Cуммa оплаты: " + Math.Round(Quantity * cost, 2);
         }
     }
 }
