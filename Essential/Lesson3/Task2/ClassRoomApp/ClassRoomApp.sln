@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoomApp", "ClassRoomApp.csproj", "{736EA4B0-B26B-41F3-AAE7-26F7739B45AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoomTests", "..\ClassRoomTests\ClassRoomTests.csproj", "{6D970159-FD67-4E2B-81EA-5413178D3090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736EA4B0-B26B-41F3-AAE7-26F7739B45AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736EA4B0-B26B-41F3-AAE7-26F7739B45AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736EA4B0-B26B-41F3-AAE7-26F7739B45AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736EA4B0-B26B-41F3-AAE7-26F7739B45AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D970159-FD67-4E2B-81EA-5413178D3090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D970159-FD67-4E2B-81EA-5413178D3090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D970159-FD67-4E2B-81EA-5413178D3090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D970159-FD67-4E2B-81EA-5413178D3090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D50AC1-DFCC-4BCB-AC48-CB2F442BBA51}
+	EndGlobalSection
+EndGlobal
