@@ -50,5 +50,45 @@ namespace ClassRoomApp
                     return new ExcellentPupil();
             }
         }
+
+        public string ClassRoomStudy()
+        {
+            var result = "";
+            foreach (var p in _pupils)
+            {
+                result += "Study = " + p.Study() + "\n";
+            }
+            return result;
+        }
+
+        public string ClassRoomRead()
+        {
+            var result = "";
+            foreach (var p in _pupils)
+            {
+                result += "Read = " + p.Read() + "\n";
+            }
+            return result;
+        }
+
+        public string ClassRoomWrite()
+        {
+            var result = "";
+            foreach (var p in _pupils)
+            {
+                result += "Write = " + p.Write() + "\n";
+            }
+            return result;
+        }
+
+        public string ClassRoomRelax()
+        {
+            var result = "";
+            foreach (var p in _pupils)
+            {
+                result += "Relax = " + p.Relax() + "\n";
+            }
+            return result;
+        }
     }
 }

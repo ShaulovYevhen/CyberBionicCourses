@@ -9,7 +9,7 @@
 
         public override string Write()
         {
-            return "Good pupil Study";
+            return "Good pupil Write";
         }
 
         public override string Read()

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ClassRoomApp
+﻿namespace ClassRoomApp
 {
     public class Pupil
     {
