@@ -11,10 +11,10 @@ namespace VehicleAppTests
         [TestInitialize]
         public void Init()
         {
-            int price=123;
-            int speed=123;
-            int releaseYear=2312;
-            _target = new Car(price,speed,releaseYear);
+            int price = 123;
+            int speed = 123;
+            int releaseYear = 2312;
+            _target = new Car(price, speed, releaseYear);
         }
 
         [TestMethod]

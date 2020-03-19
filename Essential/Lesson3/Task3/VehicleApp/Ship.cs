@@ -2,12 +2,12 @@
 
 namespace VehicleApp
 {
-    public class Ship: Vehicle
+    public class Ship : Vehicle
     {
         public Ship(int price, int speed, int releaseYear) : base(price, speed, releaseYear)
         {
         }
-        
+
         public string Port { get; set; }
         private int _passengers;
         public int Passengers

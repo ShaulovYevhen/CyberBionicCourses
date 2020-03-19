@@ -16,9 +16,11 @@ namespace VehicleAppTests
             var releaseYear = 31231;
             _target = new Ship(price, speed, releaseYear)
             {
-                Passengers = 1121, Port = "ooo"
+                Passengers = 1121,
+                Port = "ooo"
             };
         }
+
         [TestMethod]
         public void ToStringTest()
         {

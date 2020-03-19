@@ -16,7 +16,8 @@ namespace VehicleAppTests
             var releaseYear = 12312;
             _target = new Plane(price, speed, releaseYear)
             {
-                Hight = 12312, Passengers = 123
+                Hight = 12312,
+                Passengers = 123
             };
         }
 
