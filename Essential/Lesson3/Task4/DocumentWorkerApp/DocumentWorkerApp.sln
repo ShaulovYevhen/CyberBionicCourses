@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentWorkerApp", "DocumentWorkerApp.csproj", "{33FA38BA-A046-4B05-926C-F7F635673835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentWorkerAppTests", "..\DocumentWorkerAppTests\DocumentWorkerAppTests.csproj", "{4E96B87A-2995-4526-87A2-C5E9F5A21850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FA38BA-A046-4B05-926C-F7F635673835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FA38BA-A046-4B05-926C-F7F635673835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FA38BA-A046-4B05-926C-F7F635673835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FA38BA-A046-4B05-926C-F7F635673835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E96B87A-2995-4526-87A2-C5E9F5A21850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E96B87A-2995-4526-87A2-C5E9F5A21850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E96B87A-2995-4526-87A2-C5E9F5A21850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E96B87A-2995-4526-87A2-C5E9F5A21850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2B0001-57EC-416C-BF72-F9910F60DC70}
+	EndGlobalSection
+EndGlobal
